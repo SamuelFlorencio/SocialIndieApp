@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820422818510",
+    "firebase_url": "https://socialindiepro.firebaseio.com",
+    "project_id": "socialindiepro",
+    "storage_bucket": "socialindiepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820422818510:android:77dbb500cf093215d16e9f",
+        "android_client_info": {
+          "package_name": "com.example.socialindiepro_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820422818510-12n4q1lgh7j05jv0ihr8bvuvar2ph38i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZB9UeOVot-JpIAgHQElXhhpQFflr-H9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820422818510-12n4q1lgh7j05jv0ihr8bvuvar2ph38i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
